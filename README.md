@@ -31,7 +31,7 @@
 
 <section>
   <h2>Meet the Parents</h2>
-  <div class="placeholder">[Add photo of Mother here]</div>
+  <div class="placeholder">[[Add photo of Mother here](https://drive.google.com/file/d/1g027zQeDyo3PeLFzGQL4ICwr3W_8ZDtD/view?usp=drive_link)]</div>
   <div class="placeholder">[Add photo of Father here – <a href="https://www.instagram.com/carlostheblacklab?igsh=dDJ1Z2F6NmltMnZs" target="_blank">Carlos' Instagram</a>]</div>
 </section>
 
